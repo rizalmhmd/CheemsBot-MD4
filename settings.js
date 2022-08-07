@@ -68,7 +68,7 @@ global.linkz = "https://github.com/rizalzall" //your theme url which will be dis
 global.websitex = "https://github.com/rizalzall" //ur website to be displayed
 global.botscript = 'https://github.com/rizalmhmd' //script link
 global.reactmoji = "⏱" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🐷" //ur theme emoji
 global.packname = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "𝚉𝚊𝚕𝚕" //ur sticker watermark author
 
